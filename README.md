@@ -1,6 +1,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Profile!" />
 <div>
   <h1>Olá eu sou o Gustavo Fernandes.</h1>
+  <p>
+    Sou  apaixonado por tecnologia e pelo impacto que ela pode resultar nos dias de hoje, em nossas vidas.
+Costumo dizer que amo ser o protagonista de minha própria história, e com isso amo poder ajudar na geração de novas ideias e no desenvolvimento de soluções viáveis para problemas amplamente relevantes.
+  </p>
+  <p>
+Atualmente estudo Desenvolvimento web pela escola Trybe e estava cursando Ciências da computação pela Universidade Anhembi Morumbi, por motivos pessoais e financeiros tiver que trancá-la mas é minha prioridade retomar meus estudos no nível superior assim que conseguir uma nova recolocação no mercado de trabalho.
+  </p>
  </div>
   
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
