@@ -13,7 +13,7 @@ Atualmente estudo Desenvolvimento web pela escola Trybe e estava cursando Ciênc
   </p>
  </div>
  
-  <h3>Contato:</h3>
+  <h2>Contato:</h2>
   <div> 
   <p>
     <a href = "mailto: gustavo.sfernander@gmail.com">gustavo.sfernander@gmail.com</a>
