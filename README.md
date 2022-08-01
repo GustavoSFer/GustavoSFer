@@ -6,7 +6,7 @@
 Costumo dizer que amo ser o protagonista de minha própria história, e com isso amo poder ajudar na geração de novas ideias e no desenvolvimento de soluções viáveis para problemas amplamente relevantes.
   </p>
   <p>
-Atualmente estudo Desenvolvimento web pela escola Trybe e estava cursando Ciências da computação pela Universidade Anhembi Morumbi.
+Formado em Desenvolvimento web Fullstack pela escola Trybe e estava cursando Ciências da computação pela Universidade Anhembi Morumbi.
   </p>
   <p>
     Nas horas vagas gosto de ir para o cinema, parque, e um barzinho com os amigos para ter um bom bate papo e boas risadas.
