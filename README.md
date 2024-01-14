@@ -48,10 +48,6 @@ Formado em Desenvolvimento web Fullstack pela escola Trybe e estava cursando Ci√
     alt="TypeScript"
   />
   <img
-    src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
-    alt="Next"
-  />
-  <img
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="React"
   />
@@ -106,10 +102,6 @@ Formado em Desenvolvimento web Fullstack pela escola Trybe e estava cursando Ci√
   <img
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
     alt="MongoDB"
-  />
-  <img
-    src="./badges/mongoose.svg"
-    alt="Mongoose"
   />
   <img
     src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
@@ -178,6 +170,10 @@ Formado em Desenvolvimento web Fullstack pela escola Trybe e estava cursando Ci√
   <img
     src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
     alt="C#"
+  />
+  <img
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java"
   />
 </div>
 
